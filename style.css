@@ -1,17 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #353535;
     margin: 0;
     padding: 20px;
+    color: #fff
 }
 
 h1 {
-    color: #333;
+    color: 3fff;
 }
 
 #forecast {
-    background: #fff;
-    padding: 20px;
+    background: #313639;
+    padding: 50px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
